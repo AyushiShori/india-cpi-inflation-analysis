@@ -1,6 +1,6 @@
 # India CPI Inflation Analysis (2013–2023)
 
-**A case study in applied inflation analysis — built entirely in Excel.**
+**A case study in applied inflation analysis built entirely in Excel.**
 
 Five business questions on India's Consumer Price Index, answered using Power Query, PivotTables, PivotCharts and correlation analysis across 10,044 records.
 
@@ -17,7 +17,7 @@ The basket is also unusually food-heavy, which makes Indian retail inflation mor
 - Did COVID-19 produce a measurable break in the trend, or continue it?
 - How far do global crude oil price movements travel into Indian consumer prices, and which categories absorb them?
 
-The analysis is delivered as a single Excel workbook — cleaned data, a long-format model, and one analysis sheet per question.
+The analysis is delivered as a single Excel workbook, cleaned data, a long-format model, and one analysis sheet per question.
 
 ---
 
