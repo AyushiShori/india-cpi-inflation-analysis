@@ -52,7 +52,7 @@ Using month-on-month imported fuel price data for 2021–2023, measure the corre
 | Raw records | 373 rows × 30 columns |
 | Modelled records | 10,044 rows after unpivoting to long format |
 
-Each value is an **index number**, not a price. Index values are relative to a base year and cannot be summed across months or categories — all analysis therefore works with *percentage change* between periods rather than levels.
+Each value is an **index number**, not a price. Index values are relative to a base year and cannot be summed across months or categories — all analysis therefore works with *percentage change* between periods rather than level.
 
 ### Data Quality Notes
 
