@@ -8,7 +8,7 @@ Five business questions on India's Consumer Price Index, answered using Power Qu
 
 ## Problem Statement
 
-India's Consumer Price Index is a fixed basket tracking household spending across 27 expenditure heads — cereals, vegetables, housing, fuel, healthcare, transport, education. It is the benchmark the RBI targets when setting interest rates, and the reference point for wage indexation and welfare spending across the country.
+India's Consumer Price Index is a fixed basket tracking household spending across 27 expenditure heads such as cereals, vegetables, housing, fuel, healthcare, transport, education. It is the benchmark the RBI targets when setting interest rates, and the reference point for wage indexation and welfare spending across the country.
 
 The basket is also unusually food-heavy, which makes Indian retail inflation more exposed to supply shocks than headline figures alone reveal. This project interrogates that exposure across a decade of monthly data (2013–2023), asking four questions:
 
